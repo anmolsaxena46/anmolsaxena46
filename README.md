@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 # Hi there 👋
-**I'm Anmol Saxena**  <br><br>Passionate developer with a strong foundation in **Java**, **JavaScript**, and **web development**.  <br>I enjoy building efficient solutions, troubleshooting complex problems, and turning ideas into practical applications.  <br><br>
+**I am Anmol Saxena**  <br><br>Passionate developer with a strong foundation in **Java**, **JavaScript**, and **web development**.  <br>I enjoy building efficient solutions, troubleshooting complex problems, and turning ideas into practical applications.  <br><br>
 ---
 ###  Skills & Interests<br> 
 **Programming Languages:** Java, JavaScript, HTML, CSS  <br>
